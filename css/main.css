@@ -9,11 +9,14 @@ html {
 }
 
 @font-face{
-	font-family: 'digital-7';
-	src: url('../fonts/digital-7.tff');
+  font-family: 'digital-7';
+  font-style: normal;
+  font-weight: normal;
+  src: 
+  local("digital-7")
+  url('../fonts/digital-7.tff') format("truetype");
 
 }
-
 
 body {
   margin: 60px;
