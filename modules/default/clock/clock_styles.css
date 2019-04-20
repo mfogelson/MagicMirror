@@ -4,7 +4,7 @@
   font-weight: normal;
   src: 
   local("digital-7")
-  url('/home/pi/MagicMirror/css/fonts/digital-7.tff') format("truetype");
+  url('digital-7.tff') format("truetype");
 
 }
 
