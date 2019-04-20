@@ -63,6 +63,10 @@ Module.register("clock",{
 		var secondsWrapper = document.createElement("sup");
 		var periodWrapper = document.createElement("span");
 		var weekWrapper = document.createElement("div")
+
+		timeWrapper.style.color = "red";
+		secondsWrapper.style.color = "red";
+
 		// Style Wrappers
 		dateWrapper.className = "date normal medium";
 		timeWrapper.className = "time bright large light";
