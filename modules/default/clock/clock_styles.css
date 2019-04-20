@@ -1,4 +1,14 @@
-.clockCircle {
+@font-face{
+  font-family: 'digital-7';
+  font-style: normal;
+  font-weight: normal;
+  src: 
+  local("digital-7")
+  url('/home/pi/MagicMirror/css/fonts/digital-7.tff') format("truetype");
+
+}
+
+clockCircle {
   margin: 0 auto;
   position: relative;
   border-radius: 50%;
