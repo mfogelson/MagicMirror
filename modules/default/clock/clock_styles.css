@@ -34,7 +34,7 @@ clockCircle {
 }
 
 .clockHour {
-  font-family: "digital-7";
+  font-family: 'Times New Roman', Times, serif;
   width: 0;
   height: 0;
   position: absolute;
