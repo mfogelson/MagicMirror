@@ -42,7 +42,7 @@ clockCircle {
   left: 50%;
   margin: -2px 0 -2px -25%;   /* numbers much match negative length & thickness */
   padding: 2px 0 2px 25%;     /* indicator length & thickness */
-  background: red;
+  background: white;
   -webkit-transform-origin: 100% 50%;
   -ms-transform-origin: 100% 50%;
   transform-origin: 100% 50%;

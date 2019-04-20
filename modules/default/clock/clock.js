@@ -68,6 +68,10 @@ Module.register("clock",{
 		secondsWrapper.style.color = "red";
 		timeWrapper.style.fontFamily = "digital-7";
 		secondsWrapper.style.fontFamily = "digital-7";
+		timeWrapper.style.font = "digital-7";
+		secondsWrapper.style.font = "digital-7";
+		timeWrapper.style.fontStyle = "digital-7";
+		secondsWrapper.style.fontStyle = "digital-7";
 		// Style Wrappers
 		dateWrapper.className = "date normal medium";
 		timeWrapper.className = "time bright large light";
